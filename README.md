@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 - Building a custom web app with responsive UI, API integrations, and database-driven features
 
-- Expanding my knowledge in blockchain, fintech, and partner ecosystems
+- Expanding my knowledge in fintech, blockchain, and partner ecosystems
 
 - Sharing operational playbooks and technical projects here on GitHub
 
