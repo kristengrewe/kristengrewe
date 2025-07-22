@@ -1,4 +1,5 @@
-👋 Hi, I’m Kristen Grewe
+👋 Hi, I’m Kristen Grewe.
+
 I’m a Strategic Operations Leader with 8+ years of experience driving cross‑functional initiatives, optimizing GTM systems, and scaling partner programs in high‑growth tech environments. I thrive at the intersection of business strategy and technology, translating complex challenges into streamlined processes, actionable insights, and measurable impact.
 
 __________________________________________________________________________________________________________________________________
